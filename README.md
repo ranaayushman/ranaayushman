@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ranaayushman
 - 👀 I’m interested in ...Many Things
-- 🌱 I’m currently learning ...web devlopment
+- 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... try.ayushmanrana@gmail.com
 - 😄 Pronouns: ...He/Him
