@@ -4,12 +4,11 @@
 I'm interested in many things, with a strong focus on web development.
 
 ## 🌱 Currently Learning
-I'm currently expanding my knowledge in web development technologies:
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node-dot-js.svg" alt="Node.js" width="20" height="20"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React" width="20" height="20"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextdotjs.svg" alt="Next.js" width="20" height="20"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" width="20" height="20"/>
+I'm currently expanding my knowledge in web development technologies, particularly:
+- **Node.js**
+- **React**
+- **Next.js**
+- **JavaScript**
 
 ## 💞️ Collaboration
 I'm looking to collaborate on exciting projects, especially in web development and open-source contributions.
