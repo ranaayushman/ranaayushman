@@ -9,6 +9,7 @@ I'm currently expanding my knowledge in web development technologies, particular
 - **React**
 - **Next.js**
 - **JavaScript**
+- **TypeScript**
 
 ## 💞️ Collaboration
 I'm looking to collaborate on exciting projects, especially in web development and open-source contributions.
