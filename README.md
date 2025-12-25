@@ -1,31 +1,62 @@
-# 👋 Hi, I’m [@ranaayushman](https://github.com/ranaayushman)
+# 👋 Hi, I'm Ayushman Rana (@ranaayushman)
 
-## 👀 Interests
-I'm interested in many things, with a strong focus on web development.
+🚀 **Frontend Developer | Web Enthusiast | Open-Source Learner**
 
-## 🌱 Currently Learning
-I'm currently expanding my knowledge in web development technologies, particularly:
-- **Node.js**
-- **React**
-- **Next.js**
-- **JavaScript**
-- **TypeScript**
-
-## 💞️ Collaboration
-I'm looking to collaborate on exciting projects, especially in web development and open-source contributions.
-
-## 📫 How to Reach Me
-Feel free to reach out via email: [try.ayushmanrana@gmail.com](mailto:try.ayushmanrana@gmail.com)
-
-## 😄 Pronouns
-He/Him
-
-## ⚡ Fun Fact
-I enjoy exploring new technologies and finding innovative solutions to problems!
+I build clean, scalable, and user-focused web applications while continuously learning modern technologies.
 
 ---
 
-<!---
-This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧠 About Me (Live Data)
+- 💻 Focus: **Web Development**
+- 🌱 Currently learning **Node.js, React, Next.js, TypeScript**
+- 🤝 Open to **collaboration & open source**
+- ⚡ Fun fact: I enjoy debugging more than writing fresh code 😄
+
+---
+
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+
+---
+
+## 📊 GitHub Stats (Auto-Updated)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranaayushman&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranaayushman&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🧩 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaayushman&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ranaayushman&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranaayushman&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: **try.ayushmanrana@gmail.com**
+- 🐙 GitHub: **[@ranaayushman](https://github.com/ranaayushman)**
+
+---
+
+⭐ *If you like my work, consider starring a repo — it motivates me a lot!*
