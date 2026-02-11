@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayushman Rana (@ranaayushman)
 
-🚀 **Frontend Developer | Web Enthusiast | Open-Source Learner**
+🚀 **Fullstack Developer | Web Enthusiast | Open-Source Learner**
 
 I build clean, scalable, and user-focused web applications while continuously learning modern technologies.
 
@@ -8,7 +8,7 @@ I build clean, scalable, and user-focused web applications while continuously le
 
 ## 🧠 About Me (Live Data)
 - 💻 Focus: **Web Development**
-- 🌱 Currently learning **Node.js, React, Next.js, TypeScript**
+- 🌱 Currently learning **NestJS and SQL Darabase**
 - 🤝 Open to **collaboration & open source**
 - ⚡ Fun fact: I enjoy debugging more than writing fresh code 😄
 
