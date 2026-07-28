@@ -140,11 +140,9 @@ Fun Fact:
 # 📊 GitHub Analytics
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ranaayushman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ranaayushman&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ranaayushman&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://streak-stats.demolab.com?user=ranaayushman&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -162,9 +160,7 @@ Fun Fact:
 # 🧠 Most Used Languages
 
 <p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaayushman&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaayushman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 ---
@@ -172,9 +168,7 @@ Fun Fact:
 # 🏆 Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ranaayushman&theme=algolia&row=1&column=7&margin-w=15&margin-h=15"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=ranaayushman&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
